@@ -20,9 +20,9 @@
       "styles": [
         "../node_modules/bootstrap/dist/css/bootstrap.min.css",
         "../node_modules/font-awesome/css/font-awesome.min.css",
-        "styles/_mixins.scss",
-        "styles/_variables.scss",
-        "styles/agency.scss",
+        "styles/mixins.less",
+        "styles/variables.less",
+        "styles/creative.less",
         "styles/styles.scss"
       ],
       "scripts": [
